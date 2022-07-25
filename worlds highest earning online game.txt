@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body {
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5ZJ7gDOBdw-5sF_ILN-aebbE9VXUGRevBg&usqp=CAU");
+       
+    }
+
+    #gaming {
+        background-color: black;
+        color: white;
+        length: 60%;
+        text-align: center;
+        font-family: cursive; lucida;
+    }
+    #intro{
+       font-family: cursive; lucida;
+       background-color:brown;
+       color: white;
+    }
+    #top{
+        background-color: black;
+        color: orangered;
+        outline: yellow solid 10px;
+        length: 60%;
+        text-align: center;
+        font-family: cursive; lucida;
+        font-size: 40px;
+    }
+    
+
+</style>
+</head>
+<body>
+<h1 id="gaming"> WORLD'S  HIGHEST  EARNING  ONLINE  GAMES </h1>
+<h2 id="intro"> Gaming is one of the fastest-growing sunrise industries in India, clocking 40% growth in 2019–20. The industry generated US$ 1.5 billion in net revenue during this period and is expected to surpass US$ 5 billion by 2025. The Indian gaming industry recently overtook the US in terms of user base that exceeded 300 million. Mobile phones dominate the Indian gaming industry, with phone-based gaming apps accounting for 86% of total gaming apps in 2021. The country had also experienced a 22% rise in the adoption of mobile games in 2021. Internet affordability and growing smartphone penetration in the country are indicative of bright prospects for the industry.</h2>
+
+<h1 id="top"> Top 10 <br/> Game - Lineage M <br/> $3.5+ Billion </h1>
+<iframe width="650" height="350" src="https://www.youtube.com/embed/zAwBKepKWto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display:inline-block;vertical-align: top;">
+<img src="https://i.ytimg.com/vi/h5y0rTreCVY/maxresdefault.jpg" alt="MY image" height="350"; width="650"; />
+</div><br/><br/><br/><br/><br/>
+
+
+<h1 id="top"> Top 9 <br/> Game - Fantasy Westward Journey <br/> $4.7+ Billion </h1>
+<iframe width="650" height="350" src="https://www.youtube.com/embed/pc6EXVC827k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display:inline-block;vertical-align: top;">
+<img src="http://game.163.com/en/images/768_360/xyq.jpg" alt="MY image" height="350"; width="650"; />
+</div><br/><br/><br/><br/><br/>
+
+<h1 id="top"> Top 8 <br/> Game - Fate/Grand Order  <br/> $5.4+ Billion </h1>
+<iframe width="650" height="350" src="https://www.youtube.com/embed/A8nIBP-EOh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display:inline-block;vertical-align: top;">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Mobile-Games-Fate-Grand-Order.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" alt="MY image" height="350"; width="650"; />
+</div><br/><br/><br/><br/><br/>
+
+<h1 id="top"> Top 7<br/> Game - PUBG Mobile  <br/> $6.2+ Billion </h1>
+<iframe width="650" height="350" src="https://www.youtube.com/embed/iGBnjKnU4pU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display:inline-block;vertical-align: top;">
+<img src="https://images.firstpost.com/wp-content/uploads/2020/09/pubg-sur.jpg" alt="MY image" height="350"; width="650"; />
+</div><br/><br/><br/><br/><br/>
+
+<h1 id="top"> Top 6 <br/> Game - Candy Crush Saga
+    <br/> $6.4+ Billion </h1>
+<iframe width="650" height="350" src="https://www.youtube.com/embed/EAscGHrZA-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display:inline-block;vertical-align: top;">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Mobile-Games-Candy-Crush-Saga.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" alt="MY image" height="350"; width="650"; />
+</div><br/><br/><br/><br/><br/>
+
+<h1 id="top"> Top 5 <br/> Game - Pokemon Go <br/> $7.2+ Billion </h1>
+<iframe width="650" height="350" src="https://www.youtube.com/embed/HJJZJR1qG6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display:inline-block;vertical-align: top;">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Mobile-Games-Pokemon-Go.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" alt="MY image" height="350"; width="650"; />
+</div><br/><br/><br/><br/><br/>
+
+<h1 id="top"> Top 4 <br/> Game - Clash Of Clans  <br/> $7.7+ Billion </h1>
+<iframe width="650" height="350" src="https://www.youtube.com/embed/DDY6KjQCMoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display:inline-block;vertical-align: top;">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Mobile-Games-Clash-of-Clans.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" alt="MY image" height="350"; width="650"; />
+</div><br/><br/><br/><br/><br/>
+
+<h1 id="top"> Top 3 <br/> Game - Puzzle & Dragons  <br/> $8.2+ Billion </h1>
+<iframe width="650" height="350" src="https://www.youtube.com/embed/VwdJlOR40dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display:inline-block;vertical-align: top;">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Mobile-Games-Puzzle-Dragons.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" alt="MY image" height="350"; width="650"; />
+</div><br/><br/><br/><br/><br/>
+
+<h1 id="top"> Top 2 <br/> Game - Monster Strike  <br/> $9.6+ Billion </h1>
+<iframe width="650" height="350" src="https://www.youtube.com/embed/A3aTPZX5BYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display:inline-block;vertical-align: top;">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Mobile-Games-Monster-Strike.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" alt="MY image" height="350"; width="650"; />
+</div><br/><br/><br/><br/><br/>
+
+<h1 id="top"> Top 1 <br/> Game - Honor Of Kings/Arena Of Valor  <br/> $11+ Billion </h1>
+<iframe width="650" height="350" src="https://www.youtube.com/embed/gWgtifY_a1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display:inline-block;vertical-align: top;">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Mobile-Games-Arena-of-Valor.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" alt="MY image" height="350"; width="650"; />
+</div><br/><br/><br/><br/><br/>
+</body>
